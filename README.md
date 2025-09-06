@@ -67,23 +67,7 @@
 
 ---
 
-### 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/html-5.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/css3.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/sql.png" width="40"/>
-  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/git.png" width="40"/>
-  <img src="https://img.icons8.com/ios-glyphs/30/github.png" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/console.png" width="40"/>
-</p>  
 
----
 
 ### 📊 GitHub Stats  
 <table>
@@ -114,7 +98,6 @@
 [![Facebook](https://img.icons8.com/color/48/facebook.png)](https://www.facebook.com/md.saifuzzaman.abhi)  
 [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/md-saifuzzaman-4a79a41a8/)  
 [![GitHub](https://img.icons8.com/material-outlined/48/github.png)](https://github.com/Saif502)  
-[![Instagram](https://img.icons8.com/color/48/instagram-new.png)](https://www.instagram.com/s_aif_17/)  
 [![Codeforces](https://img.shields.io/badge/dynamic/json?label=Codeforces&query=$.result[0].rating&url=https://codeforces.com/api/user.info?handles=ZEro_Byte&style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ZEro_Byte)  
 
 ---
