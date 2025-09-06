@@ -95,6 +95,6 @@
 ---
 
 ### 📫 Connect with Me  
-[![Facebook](https://img.icons8.com/color/48/facebook.png)](https://www.facebook.com/md.saifuzzaman.abhi) |  [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/md-saifuzzaman-4a79a41a8/) | [![GitHub](https://img.icons8.com/material-outlined/48/github.png)](https://github.com/Saif502) | [![Codeforces](https://img.shields.io/badge/dynamic/json?label=Codeforces&query=$.result[0].rating&url=https://codeforces.com/api/user.info?handles=ZEro_Byte&style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ZEro_Byte)  
+[![Facebook](https://img.icons8.com/color/48/facebook.png)](https://www.facebook.com/md.saifuzzaman.abhi)  [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/md-saifuzzaman-4a79a41a8/)  [![GitHub](https://img.icons8.com/material-outlined/48/github.png)](https://github.com/Saif502)  [![Codeforces](https://img.shields.io/badge/dynamic/json?label=Codeforces&query=$.result[0].rating&url=https://codeforces.com/api/user.info?handles=ZEro_Byte&style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ZEro_Byte)  
 
 ---
