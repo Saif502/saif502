@@ -5,12 +5,11 @@
 ---
 
 ### 🌱 About Me  
-- Competitive Programmer (**Specialist** at [Codeforces](https://codeforces.com/profile/ZEro_Byte))  
-- Strong foundation in **Data Structures & Algorithms**  
-- Participate in both **online and onsite programming contests**  
-- **President of my University Programming Club** – organize contests, guide juniors, and contribute beginner-level problem setting  
-- Interested in **AI, Machine Learning, and Deep Learning**  
-- Currently working on **Medical Imaging Research** (Mpox & Skin Lesion detection)  
+- Passionate about **Problem Solving, Algorithms, and AI/ML**.  
+- Competitive Programmer (**Specialist** at [Codeforces](https://codeforces.com/profile/ZEro_Byte)).
+- Interested in **Web Development, Mobile Apps, and Robotics projects**   
+- Currently Enthusiastic about **Medical Imaging Research** (Mpox & Skin Lesion detection)  
+
 
 ---
 
@@ -18,27 +17,71 @@
 - **Languages**: C, C++, Python, JavaScript  
 - **Core Topics**: Sorting, Searching, Graphs, DP, Greedy, Trees, Binary Search, CSP  
 - **Platforms**: Codeforces, LeetCode, CodeChef, AtCoder, LightOJ, SpoJ, HackerRank  
+- **Activities**:  
+  - Regular participant in **online & onsite contests**.  
+  - **Former President of my Department’s Programming Club** – organized contests for students.  
+  - Contributed to **beginner-level problem setting** to help juniors.  
 
 ---
 
-### 💻 Projects & Research  
-- 📘 [Educational Q/A Platform (PHP + Admin Panel)](https://github.com/Saif502/PHP_Project)  
-- ⚙️ [Operating System Implementations](https://github.com/Saif502/OS)  
-- ☕ [Java Design Patterns](https://github.com/Saif502/Design_pattern_SE)  
-- 🌐 [Computer Networks Labs (Cisco Packet Tracer)](https://github.com/Saif502/Networking)  
-- 📱 [QuickFix – Flutter/Dart Service App](https://github.com/Saif502/APP_Project)  
-- 🔎 [Real-time Football & Cricket Player Data Crawler](https://github.com/Saif502/Information-Retrieval-and-SEO)  
-- 🎮 OpenGL Graphics Mini Project *(to be uploaded)*  
-- 🤖 Arduino Voice-Controlled Car *(to be uploaded)*  
-- 🧬 Research: **Medical Imaging – Mpox & Skin Lesions** *(in progress)*  
+### 📚 Academic Journey & Notable Projects  
+
+#### 🔹 1st – 3rd Semesters  
+- Built a **strong foundation in C, C++, and Java**, with a focus on **OOP principles**.  
+- Became a **regular problem solver** on platforms like Codeforces.  
+- Gained confidence as a **competitive programmer** through contests.  
+- Active member of the **Programming Club**, later became **President**.  
+- Organized intra-department programming contests and helped with **problem setting**.  
+
+#### 🔹 4th Semester  
+- **Design and Analysis of Algorithms** → Research on **13 sorting algorithms** with 4 dataset variations (increasing, decreasing, random, partially sorted).  
+- **Web Engineering** → Built an educational Q/A platform (PHP + Admin Panel) → [Project Link](https://github.com/Saif502/PHP_Project)  
+- **Operating Systems** → Implemented core OS tasks → [Project Link](https://github.com/Saif502/OS)  
+
+#### 🔹 5th Semester  
+- **Software Engineering** → Learned Design Patterns in Java → [Project Link](https://github.com/Saif502/Design_pattern_SE)  
+- **Computer Networks** → Cisco Packet Tracer labs & routing → [Project Link](https://github.com/Saif502/Networking)  
+- **Microprocessors & Microcontrollers** → Assembly programming (basic codes).  
+
+#### 🔹 6th Semester  
+- **Artificial Intelligence** → Implemented Searching algorithms, CSP, Alpha-Beta pruning.  
+- **Simulation & Modeling** → Learned Simulink.  
+- **Mobile App Development** → Built **QuickFix** (Flutter/Dart service app) → [Project Link](https://github.com/Saif502/APP_Project)  
+
+#### 🔹 7th Semester  
+- **Information Retrieval & SEO** → Real-time crawler to fetch cricket & football player career stats → [Project Link](https://github.com/Saif502/Information-Retrieval-and-SEO)  
+- **Computer Graphics** → OpenGL mini project (to be uploaded).  
+- **Robotics & Automation** → Arduino voice-controlled car (to be uploaded).  
+
+#### 🔹 8th Semester (Ongoing)  
+- Continuing **ML & Deep Learning**.  
+- Research on **Medical Imaging: Mpox & Skin Lesions**.  
 
 ---
 
-### 🛠️ Skills  
+### 💻 Web & App Development Skills  
 - **Frontend**: HTML, CSS, JavaScript, React.js  
 - **Backend**: Node.js, PHP, Django  
 - **Databases**: MySQL, MongoDB, SQL  
-- **Mobile Development**: Flutter (Dart)  
+- **Mobile Apps**: Flutter (Dart)  
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="left">
+  <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/sql.png" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/git.png" width="40"/>
+  <img src="https://img.icons8.com/ios-glyphs/30/github.png" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/console.png" width="40"/>
+</p>  
 
 ---
 
